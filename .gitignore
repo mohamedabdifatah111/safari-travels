@@ -28,3 +28,7 @@ db.sqlite3
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Django generated files
+staticfiles/
+backend/media/
